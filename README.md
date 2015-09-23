@@ -25,7 +25,6 @@ import coherence
 some_large_text= "The campaign brought ... I began by making up my mind..."
 
 coh = coherence.coherenceAnalisys()
-coh.analysis_text(some_large_text)
 res = coh.analysis_text(some_large_text) 
 ```
 *res* is the dictionary with the statistics, you can see the result using the on-line app http://speech-tools.liaa.dc.uba.ar/coherence/
