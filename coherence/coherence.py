@@ -14,7 +14,7 @@ import os
 class lsaWrapperLocal():
 	
 	def __init__(self,corpus='en_tasa'):
-		package_path = os.path.dirname(__file__)
+		package_path = os.path.dirname('/usr/local/')
 		path = {"en_tasa":"models/tasa_150"}
 		path_models = path[corpus]
 		dic_word2index = json.load( open( os.path.join( os.path.join(package_path,path_models), 'dictionary.json')) )
