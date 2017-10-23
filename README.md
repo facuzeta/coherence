@@ -30,4 +30,8 @@ res = coh.analysis_text(some_large_text)
 *res* is the dictionary with the statistics, you can see the result using the on-line app http://speech-tools.liaa.dc.uba.ar/coherence/
 
 <h2> How does it work? </h2>
-<img src="http://speech-tools.liaa.dc.uba.ar/coherence/media/coherence_analysis.png" width=600px/>
+<img src="https://images.nature.com/lw926/nature-assets/npjschz/2015/npjschz201530/images_hires/npjschz201530-f1.jpg" width=600px/>
+
+<h2> Citation </h2>
+Bedi G, Carrillo F, Cecchi GA, Slezak DF, Sigman M, Mota NB, Ribeiro S, Javitt DC, Copelli M, Corcoran CM. Automated analysis of free speech predicts psychosis onset in high-risk youths. npj Schizophrenia. 2015 Aug 26;1:15030.
+
